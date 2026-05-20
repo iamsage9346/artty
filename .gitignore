@@ -1,0 +1,27 @@
+# Binaries
+/artty
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+*.out
+
+# Coverage
+coverage.txt
+
+# Build / dist
+/dist/
+/bin/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Go workspace
+go.work
+go.work.sum
